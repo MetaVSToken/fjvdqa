@@ -8,13 +8,13 @@
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "Metamen Neo",
+  "NFT_NAME": "MetaMen Neo",
   "SYMBOL": "NEO",
   "MAX_SUPPLY": 5000,
   "WEI_COST": 65000000000000000000,
 
   "DISPLAY_COST": 90,
-  "GAS_LIMIT": 500000,
+  "GAS_LIMIT": 800000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/Metaverse",
   "SHOW_BACKGROUND": true
